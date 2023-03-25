@@ -1,0 +1,43 @@
+﻿  main.cpp
+D:\programming\project\c++\ConsoleApplication2\graphics.h(281,13): warning C4273: getch: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\conio.h(444,30): message : см. предыдущее определение "getch"
+D:\programming\project\c++\ConsoleApplication2\graphics.h(282,13): warning C4273: kbhit: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\conio.h(450,30): message : см. предыдущее определение "kbhit"
+D:\programming\project\c++\ConsoleApplication2\main.cpp(90,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\programming\project\c++\ConsoleApplication2\main.cpp(95,9): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\programming\project\c++\ConsoleApplication2\main.cpp(117,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(117,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(118,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\programming\project\c++\ConsoleApplication2\main.cpp(119,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(119,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(132,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(132,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(133,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\programming\project\c++\ConsoleApplication2\main.cpp(134,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(134,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(147,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(147,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(148,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\programming\project\c++\ConsoleApplication2\main.cpp(149,83): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(149,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(155,20): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\programming\project\c++\ConsoleApplication2\main.cpp(160,9): warning C4018: >=: несоответствие типов со знаком и без знака
+graphics.lib(winbgi.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в main.obj
+graphics.lib(winbgi.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в main.obj
+graphics.lib(winbgi.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+graphics.lib(drawing.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в main.obj
+graphics.lib(drawing.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в main.obj
+graphics.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в main.obj
+graphics.lib(misc.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в main.obj
+graphics.lib(winthread.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в main.obj
+graphics.lib(winthread.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в main.obj
+graphics.lib(file.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в main.obj
+graphics.lib(file.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в main.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRTD" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+graphics.lib(winbgi.obj) : error LNK2001: неразрешенный внешний символ __imp___invalid_parameter.
+graphics.lib(drawing.obj) : error LNK2001: неразрешенный внешний символ __imp___invalid_parameter.
+graphics.lib(winthread.obj) : error LNK2001: неразрешенный внешний символ __imp___invalid_parameter.
+graphics.lib(winbgi.obj) : error LNK2001: неразрешенный внешний символ __imp___CrtDbgReportW.
+graphics.lib(drawing.obj) : error LNK2001: неразрешенный внешний символ __imp___CrtDbgReportW.
+graphics.lib(winthread.obj) : error LNK2001: неразрешенный внешний символ __imp___CrtDbgReportW.
+D:\programming\project\c++\ConsoleApplication2\Release\ConsoleApplication2.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

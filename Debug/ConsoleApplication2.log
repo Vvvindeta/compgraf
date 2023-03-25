@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\programming\project\c++\ConsoleApplication2\graphics.h(281,13): warning C4273: getch: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\conio.h(444,30): message : см. предыдущее определение "getch"
+D:\programming\project\c++\ConsoleApplication2\graphics.h(282,13): warning C4273: kbhit: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\conio.h(450,30): message : см. предыдущее определение "kbhit"
+D:\programming\project\c++\ConsoleApplication2\main.cpp(78,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(78,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(81,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(81,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\programming\project\c++\ConsoleApplication2\Debug\ConsoleApplication2.exe

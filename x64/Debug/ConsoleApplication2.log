@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\programming\project\c++\ConsoleApplication2\main.cpp(20,15): warning C4305: инициализация: усечение из "double" в "float"
+D:\programming\project\c++\ConsoleApplication2\main.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(43,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(45,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(46,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(47,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(48,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(49,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(50,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(51,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(52,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(53,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(58,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(58,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(58,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(58,13): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(59,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(64,43): warning C4805: ==: небезопасное смешение типа "boolean" и типа "bool" в операции
+D:\programming\project\c++\ConsoleApplication2\main.cpp(164,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(164,12): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(175,18): warning C4305: инициализация: усечение из "double" в "float"
+D:\programming\project\c++\ConsoleApplication2\main.cpp(443,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(443,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(443,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(443,12): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\programming\project\c++\ConsoleApplication2\main.cpp(445,22): warning C4805: ==: небезопасное смешение типа "boolean" и типа "bool" в операции
+D:\programming\project\c++\ConsoleApplication2\main.cpp(177,32): warning C4101: NEW_Y2: неиспользованная локальная переменная
+D:\programming\project\c++\ConsoleApplication2\main.cpp(177,16): warning C4101: NEW_X2: неиспользованная локальная переменная
+LINK : fatal error LNK1104: не удается открыть файл "sfml-graphics-d.lib"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: "link.exe" завершилась с кодом 1104.
